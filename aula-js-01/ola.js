@@ -17,3 +17,5 @@ console.log(turma);
 resposta = "em especial o Griff"
 console.log(resposta    
 )
+
+//JavaScript é focado na interatividade web, enquanto Java é mais robusto e aplicado em diversas áreas, desde aplicativos corporativos até desenvolvimento mobile. Ambos são poderosos, mas servem a propósitos distintos
