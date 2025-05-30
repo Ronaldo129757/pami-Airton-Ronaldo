@@ -1,0 +1,1 @@
+let nomes: Array<string | number> = [] 
